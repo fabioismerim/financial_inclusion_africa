@@ -1,4 +1,4 @@
-# Inclusão Financeira na Áfica Oriental
+# Inclusão Financeira na África Oriental
 
 O objetivo deste documento é realizar a análise dos dados e um modelo preditivo para predizer se uma pessoa tem ou não tem uma conta bancária utilizando as informações de inclusão financeira na África.
 
